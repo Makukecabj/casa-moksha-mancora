@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Casa Moksha Mancora",
+    "short_name": "Casa Moksha Mancora",
+    "tagline": "Casa Moksha Mancora · Perú",
+    "description": "Un hostel con onda en Perú. Conocé Casa Moksha Mancora.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · Jr. Industrial 400",
+    "title_line1": "Tu descanso ideal en",
+    "title_em": "Casa Moksha Mancora",
+    "title_line2": "",
+    "subtitle": "Habitaciones limpias, pileta, parrilla y buena onda."
+  },
+  "location": {
+    "address": "Jr. Industrial 400, Máncora 20850, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Jr. Industrial 400, Máncora 20850, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=Jr.+Industrial+400%2C+M%C3%A1ncora+20850%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. El mejor lugar para quedarte en la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951981234942",
+    "phone": "+54951981234942",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Casa+Moksha+Mancora/data=!4m10!3m9!1s0x9036915e7eef844f:0x8ec96c3603312d53!5m2!4m1!1i2!8m2!3d-4.1092987!4d-81.0564808!16s%2Fg%2F11yd7p8m3p!19sChIJT4Tvfl6RNpARUy0xAzZsyY4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Casa+Moksha+Mancora/data=!4m10!3m9!1s0x9036915e7eef844f:0x8ec96c3603312d53!5m2!4m1!1i2!8m2!3d-4.1092987!4d-81.0564808!16s%2Fg%2F11yd7p8m3p!19sChIJT4Tvfl6RNpARUy0xAzZsyY4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Un poco de nosotros",
+    "title": "Conocé Casa Moksha Mancora.",
+    "paragraphs": [
+      "Casa Moksha Mancora te espera en Perú con habitaciones limpias, pileta, parrilla, cocina completa y WiFi gratis. Un lugar tranquilo para descansar y desde donde podés recorrer toda la zona."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Siempre hay alguien para ayudarte",
+    "Sin sorpresas al momento de pagar",
+    "Te contamos todo lo que necesitás saber"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Espacios para descansar",
+      "description": "Habitaciones pensadas para que descargues baterías.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Conection estable",
+      "description": "WiFi que funciona para laburar y para scrollear.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En la zona",
+      "description": "Caminando llegás a todo, olvidate del Uber.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Diego F.",
+      "rating": 4,
+      "text": "Muy buena relación calidad-precio y una atención personalizada que no encontrás en otros lados."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Hay lugar para guardar equipaje?",
+      "answer": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Puedo pagar con tarjeta?",
+      "answer": "Consultanos, tenemos varias opciones para que te quede cómodo."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Casa Moksha Mancora",
+    "copyright": "© 2026 Casa Moksha Mancora. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Casa Moksha Mancora",
+        "short_name": "Casa Moksha Mancora",
+        "tagline": "Casa Moksha Mancora · Accommodation",
+        "description": "Everything you need to travel easy, at Casa Moksha Mancora.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · Jr. Industrial 400",
+        "title_line1": "Your perfect escape at",
+        "title_em": "Casa Moksha Mancora",
+        "title_line2": "",
+        "subtitle": "Pool, BBQ and the best hangout spot in Perú."
+      },
+      "about": {
+        "eyebrow": "About us",
+        "title": "The story of Casa Moksha Mancora.",
+        "paragraphs": [
+          "Casa Moksha Mancora awaits you in Perú with clean rooms, pool, BBQ, full kitchen and free WiFi. A quiet place to rest and from where you can explore the whole area."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. The ideal location for your trip."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Instant replies on WhatsApp",
+        "What you see is what you pay",
+        "We'll recommend the best spots in town"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        },
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        }
+      ],
+      "footer": {
+        "description": "Casa Moksha Mancora",
+        "copyright": "© 2026 Casa Moksha Mancora. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Casa Moksha Mancora",
+        "description": "Un hostel con onda en Perú. Conocé Casa Moksha Mancora.",
+        "url": "",
+        "telephone": "+54951981234942",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Casa+Moksha+Mancora/data=!4m10!3m9!1s0x9036915e7eef844f:0x8ec96c3603312d53!5m2!4m1!1i2!8m2!3d-4.1092987!4d-81.0564808!16s%2Fg%2F11yd7p8m3p!19sChIJT4Tvfl6RNpARUy0xAzZsyY4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Jr. Industrial 400, Máncora 20850, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Espacios para descansar",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Conection estable",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En la zona",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay lugar para guardar equipaje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo pagar con tarjeta?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, tenemos varias opciones para que te quede cómodo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
